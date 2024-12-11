@@ -26,4 +26,4 @@ A Brawl Stars Map Maker written in Python by LegoCool
     - Gem Grab
     - Bounty
 
-### if you have any problems or encounter any bugs please DM me on Discord @distinctdonut
+**If you have any problems or encounter any bugs please DM me on Discord @distinctdonut**
